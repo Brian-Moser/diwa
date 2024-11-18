@@ -111,3 +111,16 @@ Set the image path, then run the script:
 # run the script
 python infer.py -c [config file]
 ```
+
+## Bibtex
+
+```
+@inproceedings{moser2024waving,
+  title={Waving goodbye to low-res: A diffusion-wavelet approach for image super-resolution},
+  author={Moser, Brian B and Frolov, Stanislav and Raue, Federico and Palacio, Sebastian and Dengel, Andreas},
+  booktitle={2024 International Joint Conference on Neural Networks (IJCNN)},
+  pages={1--8},
+  year={2024},
+  organization={IEEE}
+}
+```
